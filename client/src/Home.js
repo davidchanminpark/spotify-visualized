@@ -22,15 +22,6 @@ const TimePeriod = {
   Long: 3,
 };
 
-// TabPanel.propTypes = {
-//   children: PropTypes.node,
-//   index: PropTypes.any.isRequired,
-//   value: PropTypes.any.isRequired,
-// };
-
-
-
-
 function TabPanel(props) {
   const { children, value, index } = props;
 
